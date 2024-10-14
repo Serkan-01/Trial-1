@@ -1,6 +1,6 @@
-public class Addsubstractor {
+public class Adder {
 
-    int addsubstractor(int a, int b) {
+    int adder(int a, int b) {
         return a + b;
 
     }
